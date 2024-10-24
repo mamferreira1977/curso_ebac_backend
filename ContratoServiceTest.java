@@ -26,8 +26,7 @@ public class ContratoServiceTest {
         Assert.assertEquals("Sucesso", retorno);
     }
 
-    //TODO
-    //Fazer métodos de buscar, excluir e atualizar
+    
 
     @Test
     public void buscarTest(){
